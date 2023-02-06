@@ -1,6 +1,7 @@
 toyota
 nissan
 mazda
+Tesla
 allion
 corrona
 lambogini

@@ -1,7 +1,6 @@
 toyota
 nissan
 mazda
-subaru
 allion
 corrona
 lambogini
